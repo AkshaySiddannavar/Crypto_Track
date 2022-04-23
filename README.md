@@ -22,7 +22,7 @@ You can :
 1. Fork it (optional) 🍴
 2. Clone it 
 3. Get dependencies 📦
-4. Go to `lib/utilities/constants.dart` and replace value in `kapiKey` with your API key 🔑
+4. Go to `lib/constants.dart` and replace value in `kapiKey` with your API key 🔑
 5. Start Editing 💻
 
 **Note :   
