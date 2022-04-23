@@ -45,7 +45,7 @@ class CoinData {
 
     print('fine before getting response');
     http.Response response = await http.get(Uri.parse(
-        'https://rest.coinapi.io/v1/exchangerate/$coinName/$currencyName?apikey=4604238A-5C1D-40AC-9042-303D22FDC02E'));
+        'https://rest.coinapi.io/v1/exchangerate/$coinName/$currencyName?apikey=$kApiKey'));
     //'https://rest.coinapi.io/v1/exchangerate/BTC/$currencyName&apikey=$kApiKey'));
     print('fine before getting response');
 
