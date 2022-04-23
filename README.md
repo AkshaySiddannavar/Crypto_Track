@@ -49,7 +49,7 @@ So use your own API Key**
   1. [Go to CoinAPI.io](https://www.coinapi.io/)
   2. Click 'GET A FREE API KEY'
   3. Fill the required details and click 'GET A FREE API KEY'
-  4. You should get a mail 
+  4. You should get a mail containing your API key
 
 **Note :  
 API Keys are activated some minutes after you generate them  
