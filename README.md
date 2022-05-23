@@ -1,4 +1,4 @@
-# Crpto Track 🤑
+# Crypto Track 🤑
 
 Made With : Flutter
 
